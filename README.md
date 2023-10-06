@@ -17,3 +17,68 @@
 ![edit](https://github.com/akku27-cse/CRUD_MERN_STACK_APPLICATION/assets/115920400/09a8f241-6a3c-4b8e-9ee4-d7f592deda12)
 #Data Store View
 ![database](https://github.com/akku27-cse/CRUD_MERN_STACK_APPLICATION/assets/115920400/ca2b8f7c-9a57-4272-bd6a-ea2f903ba16c)
+
+
+## Installation
+
+1. Clone repository
+
+```shell
+git clone https://github.com/jackbalageru/MERN-CRUD.git
+```
+
+## Install Client (React Files)
+
+2. Get in the client folder
+
+```shell
+cd client
+```
+
+3. Install dependencies via npm or yarn
+
+```shell
+npm i
+```
+
+4. Start Client
+
+```shell
+npm start
+```
+
+## Install Server (Node Files)
+
+2. Get in the server folder
+
+```shell
+cd server
+```
+
+3. Install dependencies via npm or yarn
+
+```shell
+npm i
+```
+
+4. Start Server
+
+```shell
+nodemon server
+```
+
+## Install Database (JSON File)
+
+2. Get in the server folder
+
+```shell
+cd server
+```
+
+3. Import the following file to your MongoDB
+
+```shell
+Cruds
+```
+[Developer Portfolio](https://protfolio-eb371.web.app/)
+#Thank You 
