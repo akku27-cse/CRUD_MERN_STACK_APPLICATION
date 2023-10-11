@@ -1,6 +1,5 @@
 # CRUD_MERN_STACK_APPLICATION
 #for react install: npx i create-raect-app
-# requre tool👍 Express js
 #Mongoose and MongoDb
 # NodeMon
 #https://mui.com/material-ui/ --->use this and Bootstrap for good Frontend
