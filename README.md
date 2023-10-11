@@ -24,7 +24,7 @@
 1. Clone repository
 
 ```shell
-git clone https://github.com/jackbalageru/MERN-CRUD.git
+git clone https://github.com/akku27-cse/CRUD_MERN_STACK_APPLICATION.git
 ```
 
 ## Install Client (React Files)
